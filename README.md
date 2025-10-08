@@ -1,6 +1,6 @@
 # Lab Assignment 2 - Portfolio Website (ABHINAV KUMAR SINGH)
 
-This is Aryan's Lab Assignment 2 project for 1st Semester.
+This is ABHINAV's Lab Assignment 2 project for 1st Semester.
 
 ## Sections
 - Hero Section
